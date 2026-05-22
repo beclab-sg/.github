@@ -32,8 +32,7 @@ We are accelerating the transition to an **agent-first world** by building a ful
 We believe the next era of computing will be driven by autonomous agents. Our infrastructure gives those agents a secure, private, and high‑performance foundation – from edge devices to decentralized inference networks.
 
 - 🔗 Official website: [beclab.ai](https://beclab.ai)
-- 📖 Documentation: [docs.beclab.ai](https://docs.beclab.ai) (placeholder – update if different)
-- 🐦 X (Twitter): [@ByteTrade_AGI](https://x.com/ByteTrade_AGI) (example – adjust as needed)
+- 🐦 X (Twitter): [@ByteTrade_AGI](https://x.com/BytetradeLab) (example – adjust as needed)
 
 ## 🤝 Contributing
 
